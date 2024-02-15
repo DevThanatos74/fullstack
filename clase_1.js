@@ -1,0 +1,1 @@
+var texto = "Hola mundo!"
